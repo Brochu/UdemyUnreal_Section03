@@ -1,0 +1,13 @@
+*/Binaries/
+*/Build/
+*/DerivedDataCache/
+*/Intermediate/
+*/Saved/
+
+*/Content/StarterContent/
+
+########################
+# VS files
+########################
+*.VC.db
+*.VC.opendb
